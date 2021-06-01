@@ -6,7 +6,7 @@ using System.Collections.Generic;
 
 namespace HangmanXamarin.Activities
 {
-    [Activity(Label = "Top 10 Players")]
+    [Activity(Label = "Top 15 Players")]
     public class HighScores : Activity
     {
         private ListView MyListView;

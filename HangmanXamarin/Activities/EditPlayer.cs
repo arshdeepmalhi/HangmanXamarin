@@ -47,7 +47,7 @@ namespace HangmanXamarin.Activities
             }
             else
             {
-                Toast.MakeText(this, "Please enter your name!", ToastLength.Short).Show();
+                Toast.MakeText(this, "Please enter your Name!", ToastLength.Short).Show();
             }
             
         }
